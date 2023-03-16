@@ -1,0 +1,18 @@
+section {
+    margin:50px auto;
+}
+
+.cards-area {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 19%;
+    margin:0.5%;
+}
+
+.card img {
+    height: 240px;
+    object-fit: cover;
+}
